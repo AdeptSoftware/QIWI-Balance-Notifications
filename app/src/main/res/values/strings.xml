@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QIWI Balance Notification</string>
+    <string name="stop">СТОП</string>
+    <string name="start">СТАРТ</string>
+    <string name="edit">1) Введите токен</string>
+    <string name="edit2">2) Введите номер кошелька</string>
+    <string name="seek">Время обновления, мин:</string>
+</resources>
